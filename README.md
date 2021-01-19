@@ -37,9 +37,9 @@
 | [x]  | [전화 번호 문자 조합](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ★★     | 12장. 그래프                  |
 | [x]  | [순열](https://leetcode.com/problems/permutations/)          | ★★     | 12장. 그래프                  |
 | [x]  | [조합](https://leetcode.com/problems/combinations/)          | ★★     | 12장. 그래프                  |
-| [ ]  | [조합의 합](https://leetcode.com/problems/combination-sum/)  | ★★     | 12장. 그래프                  |
-| [ ]  | [부분 집합](https://leetcode.com/problems/subsets/)          | ★★     | 12장. 그래프                  |
-| [ ]  | [일정 재구성](https://leetcode.com/problems/reconstruct-itinerary/) | ★★     | 12장. 그래프                  |
+| [x]  | [조합의 합](https://leetcode.com/problems/combination-sum/)  | ★★     | 12장. 그래프                  |
+| [x]  | [부분 집합](https://leetcode.com/problems/subsets/)          | ★★     | 12장. 그래프                  |
+| [x]  | [일정 재구성](https://leetcode.com/problems/reconstruct-itinerary/) | ★★     | 12장. 그래프                  |
 | [ ]  | [코스 스케줄](https://leetcode.com/problems/course-schedule/) | ★★     | 12장. 그래프                  |
 | [ ]  | [네트워크 딜레이 타임](https://leetcode.com/problems/network-delay-time/) | ★★     | 13장. 최단 경로 문제          |
 | [ ]  | [K 경유지 내 가장 저렴한 항공권](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | ★★     | 13장. 최단 경로 문제          |
