@@ -1,4 +1,4 @@
-from collections import defaultdict # False
+from collections import defaultdict
 
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
@@ -7,21 +7,22 @@ class Solution:
             case[course].append(pre)
         
         def DFS(number, heard):
-            heard.append(number)
             print(heard)
-            print(len(heard), numCourses)
-            print(len(heard) == numCourses)
             if len(heard) == numCourses:
                 return True
-            
-            for course in case[number]:
-                if course not in heard:
-                    DFS(course, heard)
-            
-        answer = False
-        for k in range(1, numCourses):
-            answer = DFS(k, [])
+            else:
+                for course in case[number]:
+                    print(number not in case[course])
+                    if course not in heard and number not in case[course]:
+                        heard.append(number)
+                        return DFS(course, heard[:])
+                    else: # cyclic
+                        return False
 
+        answer = False
+        for k in range(0, numCourses):
+            print(answer)
+            answer = DFS(k, [])
             if answer:
                 break
                 
