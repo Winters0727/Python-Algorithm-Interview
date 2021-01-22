@@ -84,12 +84,12 @@
 | [ ]  | [태스크 스케줄러](https://leetcode.com/problems/task-scheduler/) | ★★     | 21장. 그리디 알고리즘         |
 | [ ]  | [주유소](https://leetcode.com/problems/gas-station/)         | ★★     | 21장. 그리디 알고리즘         |
 | [ ]  | [쿠키 부여](https://leetcode.com/problems/assign-cookies/)   | ★      | 21장. 그리디 알고리즘         |
-| [ ]  | [과반수 엘리먼트](https://leetcode.com/problems/majority-element/) | ★      | 22장. 분할 정복               |
+| [x]  | [과반수 엘리먼트](https://leetcode.com/problems/majority-element/) | ★      | 22장. 분할 정복               |
 | [ ]  | [괄호를 삽입하는 여러가지 방법](https://leetcode.com/problems/different-ways-to-add-parentheses/) | ★★     | 22장. 분할 정복               |
-| [ ]  | [피보나치 수](https://leetcode.com/problems/fibonacci-number/) | ★      | 23장. 다이나믹 프로그래밍     |
-| [ ]  | [최대 서브 배열](https://leetcode.com/problems/maximum-subarray/) | ★      | 23장. 다이나믹 프로그래밍     |
-| [ ]  | [계단 오르기](https://leetcode.com/problems/climbing-stairs/) | ★      | 23장. 다이나믹 프로그래밍     |
-| [ ]  | [집 도둑](https://leetcode.com/problems/house-robber/)       | ★      | 23장. 다이나믹 프로그래밍     |
+| [x]  | [피보나치 수](https://leetcode.com/problems/fibonacci-number/) | ★      | 23장. 다이나믹 프로그래밍     |
+| [x]  | [최대 서브 배열](https://leetcode.com/problems/maximum-subarray/) | ★      | 23장. 다이나믹 프로그래밍     |
+| [x]  | [계단 오르기](https://leetcode.com/problems/climbing-stairs/) | ★      | 23장. 다이나믹 프로그래밍     |
+| [x]  | [집 도둑](https://leetcode.com/problems/house-robber/)       | ★      | 23장. 다이나믹 프로그래밍     |
 | [ ]  | [비밀 지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | ★      | 부록 B. 카카오 공채 문제 풀이 |
 | [ ]  | [다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | ★      | 부록 B. 카카오 공채 문제 풀이 |
 | [ ]  | [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | ★      | 부록 B. 카카오 공채 문제 풀이 |
