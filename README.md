@@ -29,10 +29,10 @@
 | [x]  | [원형 큐 디자인](https://leetcode.com/problems/design-circular-queue/) | ★★     | 9장. 스택, 큐                 |
 | [x]  | [원형 데크 디자인](https://leetcode.com/problems/design-circular-deque/) | ★★     | 10장. 데크, 우선 순위 큐      |
 | [x]  | [k개 정렬 리스트 병합](https://leetcode.com/problems/merge-k-sorted-lists/) | ★      | 10장. 데크, 우선 순위 큐      |
-| [ ]  | [해시맵 디자인](https://leetcode.com/problems/design-hashmap/) | ★      | 11장. 해시 테이블             |
-| [ ]  | [보석과 돌](https://leetcode.com/problems/jewels-and-stones/) | ★      | 11장. 해시 테이블             |
-| [ ]  | [중복 문자 없는 가장 긴 부분 문자열](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ★★     | 11장. 해시 테이블             |
-| [ ]  | [상위 K 빈도 요소](https://leetcode.com/problems/top-k-frequent-elements/) | ★★     | 11장. 해시 테이블             |
+| [x]  | [해시맵 디자인](https://leetcode.com/problems/design-hashmap/) | ★      | 11장. 해시 테이블             |
+| [x]  | [보석과 돌](https://leetcode.com/problems/jewels-and-stones/) | ★      | 11장. 해시 테이블             |
+| [x]  | [중복 문자 없는 가장 긴 부분 문자열](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ★★     | 11장. 해시 테이블             |
+| [x]  | [상위 K 빈도 요소](https://leetcode.com/problems/top-k-frequent-elements/) | ★★     | 11장. 해시 테이블             |
 | [x]  | [섬의 개수](https://leetcode.com/problems/number-of-islands/) | ★★     | 12장. 그래프                  |
 | [x]  | [전화 번호 문자 조합](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ★★     | 12장. 그래프                  |
 | [x]  | [순열](https://leetcode.com/problems/permutations/)          | ★★     | 12장. 그래프                  |
@@ -59,13 +59,13 @@
 | [ ]  | [배열의 K번째 큰 요소](https://leetcode.com/problems/kth-largest-element-in-an-array/) | ★★     | 15장. 힙                      |
 | [ ]  | [트라이 구현](https://leetcode.com/problems/implement-trie-prefix-tree/) | ★★     | 16장. 트라이                  |
 | [ ]  | [팰린드롬 페어](https://leetcode.com/problems/palindrome-pairs/) | ★★★    | 16장. 트라이                  |
-| [ ]  | [리스트 정렬](https://leetcode.com/problems/sort-list/)      | ★★     | 17장. 정렬                    |
-| [ ]  | [구간 병합](https://leetcode.com/problems/merge-intervals/)  | ★★     | 17장. 정렬                    |
-| [ ]  | [삽입 정렬 리스트](https://leetcode.com/problems/insertion-sort-list/) | ★★     | 17장. 정렬                    |
-| [ ]  | [가장 큰 수](https://leetcode.com/problems/largest-number/)  | ★★     | 17장. 정렬                    |
-| [ ]  | [유효한 애너그램](https://leetcode.com/problems/valid-anagram/) | ★      | 17장. 정렬                    |
-| [ ]  | [색 정렬](https://leetcode.com/problems/sort-colors/)        | ★★     | 17장. 정렬                    |
-| [ ]  | [원점에 K번째 가까운 점](https://leetcode.com/problems/k-closest-points-to-origin/) | ★★     | 17장. 정렬                    |
+| [x]  | [리스트 정렬](https://leetcode.com/problems/sort-list/)      | ★★     | 17장. 정렬                    |
+| [x]  | [구간 병합](https://leetcode.com/problems/merge-intervals/)  | ★★     | 17장. 정렬                    |
+| [x]  | [삽입 정렬 리스트](https://leetcode.com/problems/insertion-sort-list/) | ★★     | 17장. 정렬                    |
+| [x]  | [가장 큰 수](https://leetcode.com/problems/largest-number/)  | ★★     | 17장. 정렬                    |
+| [x]  | [유효한 애너그램](https://leetcode.com/problems/valid-anagram/) | ★      | 17장. 정렬                    |
+| [x]  | [색 정렬](https://leetcode.com/problems/sort-colors/)        | ★★     | 17장. 정렬                    |
+| [x]  | [원점에 K번째 가까운 점](https://leetcode.com/problems/k-closest-points-to-origin/) | ★★     | 17장. 정렬                    |
 | [ ]  | [이진 검색](https://leetcode.com/problems/binary-search/)    | ★      | 18장. 이진 검색               |
 | [ ]  | [회전 정렬된 배열 검색](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ★★     | 18장. 이진 검색               |
 | [ ]  | [두 배열의 교집합](https://leetcode.com/problems/intersection-of-two-arrays/) | ★      | 18장. 이진 검색               |
