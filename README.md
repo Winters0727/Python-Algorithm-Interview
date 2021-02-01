@@ -90,10 +90,10 @@
 | [x]  | [최대 서브 배열](https://leetcode.com/problems/maximum-subarray/) | ★      | 23장. 다이나믹 프로그래밍     |
 | [x]  | [계단 오르기](https://leetcode.com/problems/climbing-stairs/) | ★      | 23장. 다이나믹 프로그래밍     |
 | [x]  | [집 도둑](https://leetcode.com/problems/house-robber/)       | ★      | 23장. 다이나믹 프로그래밍     |
-| [ ]  | [비밀 지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | ★      | 부록 B. 카카오 공채 문제 풀이 |
-| [ ]  | [다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | ★      | 부록 B. 카카오 공채 문제 풀이 |
-| [ ]  | [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | ★      | 부록 B. 카카오 공채 문제 풀이 |
+| [x]  | [비밀 지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | ★      | 부록 B. 카카오 공채 문제 풀이 |
+| [x]  | [다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | ★      | 부록 B. 카카오 공채 문제 풀이 |
+| [x]  | [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | ★      | 부록 B. 카카오 공채 문제 풀이 |
 | [ ]  | [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678) | ★★     | 부록 B. 카카오 공채 문제 풀이 |
-| [ ]  | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | ★★     | 부록 B. 카카오 공채 문제 풀이 |
+| [x]  | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | ★★     | 부록 B. 카카오 공채 문제 풀이 |
 | [ ]  | [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | ★★★    | 부록 B. 카카오 공채 문제 풀이 |
 | [ ]  | [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | ★★★    | 부록 B. 카카오 공채 문제 풀이 |
