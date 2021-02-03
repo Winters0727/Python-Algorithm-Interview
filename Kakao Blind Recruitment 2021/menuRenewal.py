@@ -3,16 +3,20 @@ from itertools import combinations
 
 def solution(orders, course):
     answer = []
-    food_counter = defaultdict(list)
-    for index, foods in enumerate(orders):
-        for food in foods:
-            food_counter[food].append(index+1)
-    for c in course:
-        food_comb = []
-        for key in food_counter.keys():
-            if len(food_counter[key]) >= c:
-                food_comb += list(combinations(food_counter[key], c))
-        if food_comb:
-            answer_counter = Counter(food_comb)
-            print(max(answer_counter.most_common(), key=lambda x : x[1]))
+    for case in course:
+        food_counter = defaultdict(int)
+        for order in orders:
+            if len(order) < case:
+                continue
+            else:
+                comb_list = list(combinations(list(order),case))
+                for comb in comb_list:
+                    food_counter[''.join(sorted(comb))] += 1
+        if food_counter.values():
+            max_val = max(food_counter.values())
+            if max_val >= 2:
+                for key in food_counter.keys():
+                    if food_counter[key] == max_val:
+                        answer.append(key)
+    answer.sort()
     return answer
