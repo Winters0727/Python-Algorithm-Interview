@@ -57,7 +57,7 @@
 | [ ]  | [이진 탐색 트리(BST) 노드 간 최소 거리](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | ★      | 14장. 트리                    |
 | [ ]  | [전위, 중위 순회 결과로 이진 트리 구축](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ★★     | 14장. 트리                    |
 | [ ]  | [배열의 K번째 큰 요소](https://leetcode.com/problems/kth-largest-element-in-an-array/) | ★★     | 15장. 힙                      |
-| [ ]  | [트라이 구현](https://leetcode.com/problems/implement-trie-prefix-tree/) | ★★     | 16장. 트라이                  |
+| [x]  | [트라이 구현](https://leetcode.com/problems/implement-trie-prefix-tree/) | ★★     | 16장. 트라이                  |
 | [ ]  | [팰린드롬 페어](https://leetcode.com/problems/palindrome-pairs/) | ★★★    | 16장. 트라이                  |
 | [x]  | [리스트 정렬](https://leetcode.com/problems/sort-list/)      | ★★     | 17장. 정렬                    |
 | [x]  | [구간 병합](https://leetcode.com/problems/merge-intervals/)  | ★★     | 17장. 정렬                    |
@@ -66,9 +66,9 @@
 | [x]  | [유효한 애너그램](https://leetcode.com/problems/valid-anagram/) | ★      | 17장. 정렬                    |
 | [x]  | [색 정렬](https://leetcode.com/problems/sort-colors/)        | ★★     | 17장. 정렬                    |
 | [x]  | [원점에 K번째 가까운 점](https://leetcode.com/problems/k-closest-points-to-origin/) | ★★     | 17장. 정렬                    |
-| [ ]  | [이진 검색](https://leetcode.com/problems/binary-search/)    | ★      | 18장. 이진 검색               |
-| [ ]  | [회전 정렬된 배열 검색](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ★★     | 18장. 이진 검색               |
-| [ ]  | [두 배열의 교집합](https://leetcode.com/problems/intersection-of-two-arrays/) | ★      | 18장. 이진 검색               |
+| [x]  | [이진 검색](https://leetcode.com/problems/binary-search/)    | ★      | 18장. 이진 검색               |
+| [x]  | [회전 정렬된 배열 검색](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ★★     | 18장. 이진 검색               |
+| [x]  | [두 배열의 교집합](https://leetcode.com/problems/intersection-of-two-arrays/) | ★      | 18장. 이진 검색               |
 | [ ]  | [두 수의 합 II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ★      | 18장. 이진 검색               |
 | [ ]  | [2D 행렬 검색 II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | ★★     | 18장. 이진 검색               |
 | [x]  | [싱글 넘버](https://leetcode.com/problems/single-number/)    | ★      | 19장. 비트 조작               |
@@ -79,13 +79,13 @@
 | [ ]  | [최대 슬라이딩 윈도우](https://leetcode.com/problems/sliding-window-maximum/) | ★★★    | 20장. 슬라이딩 윈도우         |
 | [ ]  | [부분 문자열이 포함된 최소 윈도우](https://leetcode.com/problems/minimum-window-substring/) | ★★★    | 20장. 슬라이딩 윈도우         |
 | [ ]  | [가장 긴 반복 문자 대체](https://leetcode.com/problems/longest-repeating-character-replacement/) | ★★     | 20장. 슬라이딩 윈도우         |
-| [ ]  | [주식을 사고 팔기 가장 좋은 시점 II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | ★      | 21장. 그리디 알고리즘         |
-| [ ]  | [키에 따른 대기열 재구성](https://leetcode.com/problems/queue-reconstruction-by-height/) | ★★     | 21장. 그리디 알고리즘         |
-| [ ]  | [태스크 스케줄러](https://leetcode.com/problems/task-scheduler/) | ★★     | 21장. 그리디 알고리즘         |
+| [x]  | [주식을 사고 팔기 가장 좋은 시점 II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | ★      | 21장. 그리디 알고리즘         |
+| [x]  | [키에 따른 대기열 재구성](https://leetcode.com/problems/queue-reconstruction-by-height/) | ★★     | 21장. 그리디 알고리즘         |
+| [x]  | [태스크 스케줄러](https://leetcode.com/problems/task-scheduler/) | ★★     | 21장. 그리디 알고리즘         |
 | [x]  | [주유소](https://leetcode.com/problems/gas-station/)         | ★★     | 21장. 그리디 알고리즘         |
 | [x]  | [쿠키 부여](https://leetcode.com/problems/assign-cookies/)   | ★      | 21장. 그리디 알고리즘         |
 | [x]  | [과반수 엘리먼트](https://leetcode.com/problems/majority-element/) | ★      | 22장. 분할 정복               |
-| [ ]  | [괄호를 삽입하는 여러가지 방법](https://leetcode.com/problems/different-ways-to-add-parentheses/) | ★★     | 22장. 분할 정복               |
+| [x]  | [괄호를 삽입하는 여러가지 방법](https://leetcode.com/problems/different-ways-to-add-parentheses/) | ★★     | 22장. 분할 정복               |
 | [x]  | [피보나치 수](https://leetcode.com/problems/fibonacci-number/) | ★      | 23장. 다이나믹 프로그래밍     |
 | [x]  | [최대 서브 배열](https://leetcode.com/problems/maximum-subarray/) | ★      | 23장. 다이나믹 프로그래밍     |
 | [x]  | [계단 오르기](https://leetcode.com/problems/climbing-stairs/) | ★      | 23장. 다이나믹 프로그래밍     |
