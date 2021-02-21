@@ -76,7 +76,7 @@
 | [ ]  | [두 정수의 합](https://leetcode.com/problems/sum-of-two-integers/) | ★★★    | 19장. 비트 조작               |
 | [ ]  | [UTF-8 검증](https://leetcode.com/problems/utf-8-validation/) | ★★     | 19장. 비트 조작               |
 | [x]  | [1비트의 개수](https://leetcode.com/problems/number-of-1-bits/) | ★      | 19장. 비트 조작               |
-| [ ]  | [최대 슬라이딩 윈도우](https://leetcode.com/problems/sliding-window-maximum/) | ★★★    | 20장. 슬라이딩 윈도우         |
+| [?]  | [최대 슬라이딩 윈도우](https://leetcode.com/problems/sliding-window-maximum/) | ★★★    | 20장. 슬라이딩 윈도우         |
 | [ ]  | [부분 문자열이 포함된 최소 윈도우](https://leetcode.com/problems/minimum-window-substring/) | ★★★    | 20장. 슬라이딩 윈도우         |
 | [ ]  | [가장 긴 반복 문자 대체](https://leetcode.com/problems/longest-repeating-character-replacement/) | ★★     | 20장. 슬라이딩 윈도우         |
 | [x]  | [주식을 사고 팔기 가장 좋은 시점 II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | ★      | 21장. 그리디 알고리즘         |
