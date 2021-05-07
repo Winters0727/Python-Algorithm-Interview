@@ -17,20 +17,25 @@ def bubble_sort(arr):
 
 def insertion_sort(arr):
     arr = arr[:]
-    result, index = [], -1
-    while arr:
-        num = arr.pop()
-        if not result:
-            result.append(num)
-            continue
-        for idx, r_num in enumerate(result):
-            if num < r_num:
-                index = idx
+    result = []
+    for num in arr:
+        for idx, n in enumerate(result):
+            if n > num:
+                result.insert(idx, num)
                 break
         else:
             result.append(num)
-        result.insert(index, num)
     return result
+
+def selection_sort(arr):
+    arr = arr[:]
+    for i in range(len(arr)-1):
+        minIndex = i
+        for j in range(i, len(arr)):
+            if arr[minIndex] > arr[j]:
+                minIndex = j
+        arr[i], arr[minIndex] = arr[minIndex], arr[i]
+    return arr
 
 def merge_sort(arr):
     arr = arr[:]
@@ -88,6 +93,12 @@ end = time.time()
 print(f'insertion sort end : {end-start}')
 
 start = time.time()
+print('selection sort start')
+selection_sort(test)
+end = time.time()
+print(f'selection sort end : {end-start}')
+
+start = time.time()
 print('merge sort start')
 merge_sort(test)
 end = time.time()
@@ -99,11 +110,11 @@ quick_sort(test)
 end = time.time()
 print(f'quick sort end : {end-start}')
 
-radix_test = test[:]
+tim_test = test[:]
 start = time.time()
-print('radix sort start')
-radix_test.sort()
+print('tim sort start')
+tim_test.sort()
 end = time.time()
-print(f'radix sort end : {end-start}')
+print(f'tim sort end : {end-start}')
 
 print('테스트 종료')
